@@ -22,7 +22,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/q-RAR/linkfile)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kkdkodjd/OzlukDosya)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -31,7 +31,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/q-RAR/linkfile
+git clone https://github.com/Kkdkodjd/OzlukDosya
 cd linkfile
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
