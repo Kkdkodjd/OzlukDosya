@@ -5,7 +5,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@SharingUserbot](https://www.telegram.dog/SharingUserbot)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@indonesia_viral](https://www.telegram.dog/indonesia_viral)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
