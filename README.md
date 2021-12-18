@@ -31,8 +31,8 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/mrismanaziz/File-Sharing-Man
-cd File-Sharing-Man
+git clone https://github.com/q-RAR/linkfile
+cd linkfile
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
@@ -89,7 +89,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/SharingUserbot) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Lunatic0de) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/indonesia_viral) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/backupindo) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
